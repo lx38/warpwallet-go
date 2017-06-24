@@ -6,7 +6,7 @@ An implementation of WarpWallet in Go.
 ## Dependencies
 * golang.org/x/crypto/pbkdf2
 * golang.org/x/crypto/scrypt
-* github.com/vsergeev/btckeygenie/btckey
+* github.com/vsergeev/btckeygenie
 
 ## Guide
 1) Set your GOPATH directory
