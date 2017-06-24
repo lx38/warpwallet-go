@@ -4,9 +4,9 @@ An implementation of WarpWallet in Go.
 *The goal is to eventually be portable with no 3rd party libraries.*
 
 ## Dependencies
-golang.org/x/crypto/pbkdf2
-golang.org/x/crypto/scrypt
-github.com/vsergeev/btckeygenie/btckey
+* golang.org/x/crypto/pbkdf2
+* golang.org/x/crypto/scrypt
+* github.com/vsergeev/btckeygenie/btckey
 
 ## Guide
 1) Set your GOPATH directory
